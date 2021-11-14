@@ -1,1 +1,2 @@
 Hi
+Bitbucketでの作業は捨て去った
